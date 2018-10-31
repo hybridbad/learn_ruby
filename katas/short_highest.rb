@@ -1,0 +1,7 @@
+def high_and_low(numbers)
+  arr = numbers.split(" ").map { |s| s.to_i }.sort.reverse
+  print arr
+  return "#{arr[0]} #{arr[-1]}"
+end
+
+print high_and_low("4 5 29 54 4 0 -214 542 -64 1 -3 6 -6")
