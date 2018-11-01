@@ -15,10 +15,7 @@ And below that, is some Chris Pine exercises
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/disemvowel.rb">Disemvowel Trolls</a></li>
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/vowel-count.rb">Vowel Count</a></li>
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/rps.rb">Rock Paper Scissors</a></li>
-    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/get_middle_char.rb">Get middle characters</a></li>
-    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/get_middle_char.rb">Get middle characters</a></li>
-    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/get_middle_char.rb">Get middle characters</a></li>
-    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/get_middle_char.rb">Get middle characters</a></li>
+    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/cat_years_dog_years.rb">Cat Years, Dog Years</a></li>
   </ul>
 
 <h2>7 KYU Codewars</h2>
@@ -27,7 +24,7 @@ And below that, is some Chris Pine exercises
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/exes_and_ohs.rb">Exes and Ohs</a></li>
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/exes_and_ohs.rb">Highest and Lowest</a></li>
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/shortest_word.rb">Shortest Word</a></li>
-    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/exes_and_ohs.rb">Exes and Ohs</a></li>
+    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/youre_a_square.rb">You're a square</a></li>
 
   </ul>
 
