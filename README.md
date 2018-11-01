@@ -16,6 +16,7 @@ And below that, is some Chris Pine exercises
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/vowel-count.rb">Vowel Count</a></li>
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/rps.rb">Rock Paper Scissors</a></li>
     <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/cat_years_dog_years.rb">Cat Years, Dog Years</a></li>
+    <li><a href="https://github.com/hybridbad/learn_ruby/blob/master/katas/character_mistakes.rb">Correct the mistakes of the character recognition software</a></li>
   </ul>
 
 <h2>7 KYU Codewars</h2>
