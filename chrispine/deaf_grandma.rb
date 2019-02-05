@@ -1,14 +1,3 @@
-# puts
-# puts "Hey there its your Grandma!"
-
-# while ''
-#   input = gets.chomp
-#   if input == input.upcase
-#     puts "NO NOT SINCE " + (1930+rand(21)).to_s + " !"
-#   elsif input == "BYE"
-#     break
-#   end
-# end
 puts "Hey there its your Grandma!"
 response = gets.chomp
 
