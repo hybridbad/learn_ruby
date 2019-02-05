@@ -7,4 +7,6 @@ else
   print response.upcase
 end
 
-
+if response == "Shut up"
+  print "EXCUSE ME!!! YOU'RE FIRED!"
+end
