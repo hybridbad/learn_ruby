@@ -24,6 +24,15 @@ And below that, is some Chris Pine exercises
   * [Exes and Ohs](https://github.com/hybridbad/learn_ruby/blob/master/katas/exes_and_ohs.rb)
   * [Shortest Word](https://github.com/hybridbad/learn_ruby/blob/master/katas/shortest_word.rb)
   * [You're a squared](https://github.com/hybridbad/learn_ruby/blob/master/katas/youre_a_square.rb)
+  * [Two to one](https://github.com/hybridbad/learn_ruby/blob/master/katas/two-to-one.rb)
+  * [Mumbling](https://github.com/hybridbad/learn_ruby/blob/master/katas/mumbling.rb)
+
+## 6 KYU Codewars
+  * [Find the Odd Int](https://github.com/hybridbad/learn_ruby/blob/master/katas/find-odd-int.rb)
+  * [Multiples of 3 or 5](https://github.com/hybridbad/learn_ruby/blob/master/katas/multiples-of-3-or-5.rb)
+
+## 5 KYU Codewars
+  * [Simple Pig Latin](https://github.com/hybridbad/learn_ruby/blob/master/katas/simple-pig-latin.rb)
 
 ## Chris Pine Exercises
   * [Deaf Grandma](https://github.com/hybridbad/learn_ruby/blob/master/chrispine/grandma_prac.rb)
